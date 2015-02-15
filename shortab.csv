@@ -1,0 +1,11 @@
+abbrev, meaning
+1+ M,personal reference:  speaker + mixed 3rd party
+1+2m,personal reference:  speaker + monadic listener
+1+2m+M,personal reference:  speaker + monadic  listener + mixed 3rd party
+1+2m+ma,personal reference:  speaker + monadic listener + monadic animate 3rd party
+1+2m+mi,personal reference:  speaker + monadic listener + monadic inanimate 3rd party
+1+2m+ua,personal reference:  speaker + monadic listener + unbounded animate 3rd party
+1+2m+ui,personal reference:  speaker + monadic listener + unbounded inanimate 3rd party
+1+2u,personal reference:  speaker + unbounded listener
+1+2u+M,personal reference:  speaker + unbounded listener + mixed 3rd party
+1+2u+ma,personal reference:  speaker + unbounded listener + monadic animate 3rd party

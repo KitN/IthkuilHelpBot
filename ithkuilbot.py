@@ -5,7 +5,7 @@ import time
 #The strings that will 'summon' the bot:
 prawWords = ['!ithkuil', 'everybody']
 botusername = 'IthkuilRobot'
-botuserpass = 'conlangorangutan' #SENSITIVE!!!
+botuserpass = 'password' #placeholder
 
 
 #What to tell reddit my bot is called.
